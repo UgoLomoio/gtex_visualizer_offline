@@ -1,0 +1,13 @@
+,gene,gencodeId,tissue,age,gender,TPMs
+0,TERF2,ENSG00000132604.10,Kidney_Medulla,20-29,male,"[11.26, 12.07]"
+1,TERF2,ENSG00000132604.10,Kidney_Medulla,20-29,female,[]
+2,TERF2,ENSG00000132604.10,Kidney_Medulla,30-39,male,[]
+3,TERF2,ENSG00000132604.10,Kidney_Medulla,30-39,female,[]
+4,TERF2,ENSG00000132604.10,Kidney_Medulla,40-49,male,[]
+5,TERF2,ENSG00000132604.10,Kidney_Medulla,40-49,female,[]
+6,TERF2,ENSG00000132604.10,Kidney_Medulla,50-59,male,[7.721]
+7,TERF2,ENSG00000132604.10,Kidney_Medulla,50-59,female,[6.217]
+8,TERF2,ENSG00000132604.10,Kidney_Medulla,60-69,male,[]
+9,TERF2,ENSG00000132604.10,Kidney_Medulla,60-69,female,[]
+10,TERF2,ENSG00000132604.10,Kidney_Medulla,70-79,male,[]
+11,TERF2,ENSG00000132604.10,Kidney_Medulla,70-79,female,[]
