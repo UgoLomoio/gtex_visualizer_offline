@@ -270,8 +270,8 @@ def plot_by_gene_tissue_age_and_gender(gencode_id, gene_name, tissue):
     fig.update_layout(violinmode='group', hovermode='x unified', yaxis_title = "TPM", template="plotly_dark", title= "Violin plot of Gene {}, Tissue {} divided by Gender and Age".format(gene_name, tissue), autosize=False, width=1500, height=800, xaxis=dict(rangeslider=dict(
                      visible=True)))
     # fig.update_yaxes(autorange = True,fixedrange = False)
-    data_csv = [[gene_name, gencode_id, tissue, age, gender, tpms] for (age, data_age) in data.items() for (gender, tpms) in data_age.items()]
-    df_csv = pd.DataFrame(data_csv, columns=["gene", "gencodeId", "tissue", "age", "gender", "TPMs"])
+    data_csv = [[gene_name, gencode_id, tissue, age, gender, tpm] for (age, data_age) in data.items() for (gender, tpms) in data_age.items() for tpm in tpms]
+    df_csv = pd.DataFrame(data_csv, columns=["gene", "gencodeId", "tissue", "age", "gender", "TPM"])
     return fig, df_csv
 
 

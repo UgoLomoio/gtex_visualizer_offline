@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,SERPINE1,ENSG00000106366.8,Kidney_Medulla,20-29,male,"[9.069, 967.7]"
-1,SERPINE1,ENSG00000106366.8,Kidney_Medulla,20-29,female,[]
-2,SERPINE1,ENSG00000106366.8,Kidney_Medulla,30-39,male,[]
-3,SERPINE1,ENSG00000106366.8,Kidney_Medulla,30-39,female,[]
-4,SERPINE1,ENSG00000106366.8,Kidney_Medulla,40-49,male,[]
-5,SERPINE1,ENSG00000106366.8,Kidney_Medulla,40-49,female,[]
-6,SERPINE1,ENSG00000106366.8,Kidney_Medulla,50-59,male,[3.315]
-7,SERPINE1,ENSG00000106366.8,Kidney_Medulla,50-59,female,[9.469]
-8,SERPINE1,ENSG00000106366.8,Kidney_Medulla,60-69,male,[]
-9,SERPINE1,ENSG00000106366.8,Kidney_Medulla,60-69,female,[]
-10,SERPINE1,ENSG00000106366.8,Kidney_Medulla,70-79,male,[]
-11,SERPINE1,ENSG00000106366.8,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,SERPINE1,ENSG00000106366.8,Kidney_Medulla,20-29,male,9.069
+1,SERPINE1,ENSG00000106366.8,Kidney_Medulla,20-29,male,967.7
+2,SERPINE1,ENSG00000106366.8,Kidney_Medulla,50-59,male,3.315
+3,SERPINE1,ENSG00000106366.8,Kidney_Medulla,50-59,female,9.469

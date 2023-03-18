@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,RECQL4,ENSG00000160957.12,Kidney_Medulla,20-29,male,"[9.147, 2.247]"
-1,RECQL4,ENSG00000160957.12,Kidney_Medulla,20-29,female,[]
-2,RECQL4,ENSG00000160957.12,Kidney_Medulla,30-39,male,[]
-3,RECQL4,ENSG00000160957.12,Kidney_Medulla,30-39,female,[]
-4,RECQL4,ENSG00000160957.12,Kidney_Medulla,40-49,male,[]
-5,RECQL4,ENSG00000160957.12,Kidney_Medulla,40-49,female,[]
-6,RECQL4,ENSG00000160957.12,Kidney_Medulla,50-59,male,[3.962]
-7,RECQL4,ENSG00000160957.12,Kidney_Medulla,50-59,female,[2.76]
-8,RECQL4,ENSG00000160957.12,Kidney_Medulla,60-69,male,[]
-9,RECQL4,ENSG00000160957.12,Kidney_Medulla,60-69,female,[]
-10,RECQL4,ENSG00000160957.12,Kidney_Medulla,70-79,male,[]
-11,RECQL4,ENSG00000160957.12,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,RECQL4,ENSG00000160957.12,Kidney_Medulla,20-29,male,9.147
+1,RECQL4,ENSG00000160957.12,Kidney_Medulla,20-29,male,2.247
+2,RECQL4,ENSG00000160957.12,Kidney_Medulla,50-59,male,3.962
+3,RECQL4,ENSG00000160957.12,Kidney_Medulla,50-59,female,2.76

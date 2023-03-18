@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,DLL3,ENSG00000090932.10,Kidney_Medulla,20-29,male,"[0.03614, 0.06429]"
-1,DLL3,ENSG00000090932.10,Kidney_Medulla,20-29,female,[]
-2,DLL3,ENSG00000090932.10,Kidney_Medulla,30-39,male,[]
-3,DLL3,ENSG00000090932.10,Kidney_Medulla,30-39,female,[]
-4,DLL3,ENSG00000090932.10,Kidney_Medulla,40-49,male,[]
-5,DLL3,ENSG00000090932.10,Kidney_Medulla,40-49,female,[]
-6,DLL3,ENSG00000090932.10,Kidney_Medulla,50-59,male,[0.0]
-7,DLL3,ENSG00000090932.10,Kidney_Medulla,50-59,female,[0.03567]
-8,DLL3,ENSG00000090932.10,Kidney_Medulla,60-69,male,[]
-9,DLL3,ENSG00000090932.10,Kidney_Medulla,60-69,female,[]
-10,DLL3,ENSG00000090932.10,Kidney_Medulla,70-79,male,[]
-11,DLL3,ENSG00000090932.10,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,DLL3,ENSG00000090932.10,Kidney_Medulla,20-29,male,0.03614
+1,DLL3,ENSG00000090932.10,Kidney_Medulla,20-29,male,0.06429
+2,DLL3,ENSG00000090932.10,Kidney_Medulla,50-59,male,0.0
+3,DLL3,ENSG00000090932.10,Kidney_Medulla,50-59,female,0.03567

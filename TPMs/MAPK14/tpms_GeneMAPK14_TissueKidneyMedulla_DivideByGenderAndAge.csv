@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,MAPK14,ENSG00000112062.10,Kidney_Medulla,20-29,male,"[24.03, 23.41]"
-1,MAPK14,ENSG00000112062.10,Kidney_Medulla,20-29,female,[]
-2,MAPK14,ENSG00000112062.10,Kidney_Medulla,30-39,male,[]
-3,MAPK14,ENSG00000112062.10,Kidney_Medulla,30-39,female,[]
-4,MAPK14,ENSG00000112062.10,Kidney_Medulla,40-49,male,[]
-5,MAPK14,ENSG00000112062.10,Kidney_Medulla,40-49,female,[]
-6,MAPK14,ENSG00000112062.10,Kidney_Medulla,50-59,male,[16.57]
-7,MAPK14,ENSG00000112062.10,Kidney_Medulla,50-59,female,[13.04]
-8,MAPK14,ENSG00000112062.10,Kidney_Medulla,60-69,male,[]
-9,MAPK14,ENSG00000112062.10,Kidney_Medulla,60-69,female,[]
-10,MAPK14,ENSG00000112062.10,Kidney_Medulla,70-79,male,[]
-11,MAPK14,ENSG00000112062.10,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,MAPK14,ENSG00000112062.10,Kidney_Medulla,20-29,male,24.03
+1,MAPK14,ENSG00000112062.10,Kidney_Medulla,20-29,male,23.41
+2,MAPK14,ENSG00000112062.10,Kidney_Medulla,50-59,male,16.57
+3,MAPK14,ENSG00000112062.10,Kidney_Medulla,50-59,female,13.04

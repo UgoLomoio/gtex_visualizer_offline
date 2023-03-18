@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,NBN,ENSG00000104320.13,Kidney_Medulla,20-29,male,"[14.05, 11.95]"
-1,NBN,ENSG00000104320.13,Kidney_Medulla,20-29,female,[]
-2,NBN,ENSG00000104320.13,Kidney_Medulla,30-39,male,[]
-3,NBN,ENSG00000104320.13,Kidney_Medulla,30-39,female,[]
-4,NBN,ENSG00000104320.13,Kidney_Medulla,40-49,male,[]
-5,NBN,ENSG00000104320.13,Kidney_Medulla,40-49,female,[]
-6,NBN,ENSG00000104320.13,Kidney_Medulla,50-59,male,[11.64]
-7,NBN,ENSG00000104320.13,Kidney_Medulla,50-59,female,[8.588]
-8,NBN,ENSG00000104320.13,Kidney_Medulla,60-69,male,[]
-9,NBN,ENSG00000104320.13,Kidney_Medulla,60-69,female,[]
-10,NBN,ENSG00000104320.13,Kidney_Medulla,70-79,male,[]
-11,NBN,ENSG00000104320.13,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,NBN,ENSG00000104320.13,Kidney_Medulla,20-29,male,14.05
+1,NBN,ENSG00000104320.13,Kidney_Medulla,20-29,male,11.95
+2,NBN,ENSG00000104320.13,Kidney_Medulla,50-59,male,11.64
+3,NBN,ENSG00000104320.13,Kidney_Medulla,50-59,female,8.588

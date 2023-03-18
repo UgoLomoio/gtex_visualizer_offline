@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,HOXB7,ENSG00000260027.4,Kidney_Medulla,20-29,male,"[54.45, 28.34]"
-1,HOXB7,ENSG00000260027.4,Kidney_Medulla,20-29,female,[]
-2,HOXB7,ENSG00000260027.4,Kidney_Medulla,30-39,male,[]
-3,HOXB7,ENSG00000260027.4,Kidney_Medulla,30-39,female,[]
-4,HOXB7,ENSG00000260027.4,Kidney_Medulla,40-49,male,[]
-5,HOXB7,ENSG00000260027.4,Kidney_Medulla,40-49,female,[]
-6,HOXB7,ENSG00000260027.4,Kidney_Medulla,50-59,male,[40.85]
-7,HOXB7,ENSG00000260027.4,Kidney_Medulla,50-59,female,[32.99]
-8,HOXB7,ENSG00000260027.4,Kidney_Medulla,60-69,male,[]
-9,HOXB7,ENSG00000260027.4,Kidney_Medulla,60-69,female,[]
-10,HOXB7,ENSG00000260027.4,Kidney_Medulla,70-79,male,[]
-11,HOXB7,ENSG00000260027.4,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,HOXB7,ENSG00000260027.4,Kidney_Medulla,20-29,male,54.45
+1,HOXB7,ENSG00000260027.4,Kidney_Medulla,20-29,male,28.34
+2,HOXB7,ENSG00000260027.4,Kidney_Medulla,50-59,male,40.85
+3,HOXB7,ENSG00000260027.4,Kidney_Medulla,50-59,female,32.99

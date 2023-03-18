@@ -1,13 +1,5 @@
-,gene,gencodeId,tissue,age,gender,TPMs
-0,PIK3CA,ENSG00000121879.3,Kidney_Medulla,20-29,male,"[6.751, 5.97]"
-1,PIK3CA,ENSG00000121879.3,Kidney_Medulla,20-29,female,[]
-2,PIK3CA,ENSG00000121879.3,Kidney_Medulla,30-39,male,[]
-3,PIK3CA,ENSG00000121879.3,Kidney_Medulla,30-39,female,[]
-4,PIK3CA,ENSG00000121879.3,Kidney_Medulla,40-49,male,[]
-5,PIK3CA,ENSG00000121879.3,Kidney_Medulla,40-49,female,[]
-6,PIK3CA,ENSG00000121879.3,Kidney_Medulla,50-59,male,[3.499]
-7,PIK3CA,ENSG00000121879.3,Kidney_Medulla,50-59,female,[3.35]
-8,PIK3CA,ENSG00000121879.3,Kidney_Medulla,60-69,male,[]
-9,PIK3CA,ENSG00000121879.3,Kidney_Medulla,60-69,female,[]
-10,PIK3CA,ENSG00000121879.3,Kidney_Medulla,70-79,male,[]
-11,PIK3CA,ENSG00000121879.3,Kidney_Medulla,70-79,female,[]
+,gene,gencodeId,tissue,age,gender,TPM
+0,PIK3CA,ENSG00000121879.3,Kidney_Medulla,20-29,male,6.751
+1,PIK3CA,ENSG00000121879.3,Kidney_Medulla,20-29,male,5.97
+2,PIK3CA,ENSG00000121879.3,Kidney_Medulla,50-59,male,3.499
+3,PIK3CA,ENSG00000121879.3,Kidney_Medulla,50-59,female,3.35
